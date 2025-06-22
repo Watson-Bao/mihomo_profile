@@ -51,7 +51,7 @@ rules:
   - PROCESS-NAME,无畏契约登录器.exe,DIRECT
   - PROCESS-NAME,Jantama_MahjongSoul.exe,DIRECT
   - PROCESS-NAME,wegame.exe,DIRECT
-  - PROCESS-NAME,wechat.exe,DIRECT
+  - PROCESS-NAME,Weixin.exe,DIRECT
   - DOMAIN-KEYWORD,steamcontent,DIRECT
   - DOMAIN-SUFFIX,appstorrent.ru,DIRECT
   - DOMAIN-SUFFIX,olemovienews.com,狮城节点
