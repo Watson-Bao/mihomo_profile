@@ -55,7 +55,7 @@ rules:
   - DOMAIN-KEYWORD,steamcontent,DIRECT
   - DOMAIN-SUFFIX,appstorrent.ru,DIRECT
   - DOMAIN-SUFFIX,olemovienews.com,狮城节点
-  - DOMAIN-SUFFIX,wmzhe.com,DIRECT
+  - DOMAIN-SUFFIX,wmzhe.com,全球加速
   - DOMAIN-KEYWORD,paypal,美国节点
   - DOMAIN-SUFFIX,javdb.com,手动切换
   - RULE-SET,AdBlock,AdBlock
@@ -76,3 +76,4 @@ rules:
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+
