@@ -54,7 +54,7 @@ rules:
   - PROCESS-NAME,Weixin.exe,DIRECT
   - DOMAIN-KEYWORD,steamcontent,DIRECT
   - DOMAIN-SUFFIX,appstorrent.ru,DIRECT
-  - DOMAIN-SUFFIX,olemovienews.com,狮城节点
+  - DOMAIN-SUFFIX,olemovienews.com,国际媒体
   - DOMAIN-SUFFIX,wmzhe.com,全球加速
   - DOMAIN-KEYWORD,paypal,美国节点
   - DOMAIN-SUFFIX,javdb.com,手动切换
@@ -76,4 +76,5 @@ rules:
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+
 
