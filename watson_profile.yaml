@@ -60,24 +60,25 @@ rules:
   - DOMAIN-KEYWORD,paypal,美国节点
   - DOMAIN-SUFFIX,javdb.com,手动切换
   - RULE-SET,AdBlock,AdBlock
+  - RULE-SET,Google,谷歌服务
+  - RULE-SET,Youtube,谷歌服务
+   - RULE-SET,Apple,苹果服务
   - RULE-SET,OpenAi,OpenAi
   - RULE-SET,Spotify,Spotify
   - RULE-SET,BiliBili,哔哩哔哩
-  - RULE-SET,GlobalMedia,国际媒体
-  - RULE-SET,Apple,苹果服务
+  - RULE-SET,Telegram,电报消息
   - RULE-SET,Github,全球加速
   - RULE-SET,Microsoft,全球加速
-  - RULE-SET,Google,谷歌服务
-  - RULE-SET,Youtube,谷歌服务
-  - RULE-SET,Telegram,电报消息
   - RULE-SET,Twitter,全球加速
   - RULE-SET,Game,游戏平台
+  - RULE-SET,GlobalMedia,国际媒体
   - RULE-SET,ProxyLite,全球加速
   - RULE-SET,ChinaIP,DIRECT
   - RULE-SET,Direct,DIRECT
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+
 
 
 
