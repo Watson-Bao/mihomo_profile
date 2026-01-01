@@ -62,7 +62,7 @@ rules:
   - RULE-SET,AdBlock,AdBlock
   - RULE-SET,Google,谷歌服务
   - RULE-SET,Youtube,谷歌服务
-   - RULE-SET,Apple,苹果服务
+  - RULE-SET,Apple,苹果服务
   - RULE-SET,OpenAi,OpenAi
   - RULE-SET,Spotify,Spotify
   - RULE-SET,BiliBili,哔哩哔哩
@@ -78,6 +78,7 @@ rules:
   - RULE-SET,Lan,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
+
 
 
 
